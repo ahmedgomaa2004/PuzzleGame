@@ -1,42 +1,28 @@
-🧩 Puzzle Game
-A puzzle game built using Python and Tkinter!
-You can select an image, split it into 8 pieces, and try to rearrange them correctly.
-The game also features:
+# 🧩 Puzzle Game
 
-Upload a new image.
+A puzzle game built using **Python** and **Tkinter**!  
+Select an image, split it into 8 pieces, and rearrange them correctly to solve the puzzle.
 
-Show the original image.
+---
 
-Reset the game.
+## ✨ Features
 
-Auto-solve using BFS or DFS algorithms.
+- Upload a new image and split it into tiles.
+- Show the original (unsplit) image.
+- Reset the game to start over.
+- Auto-solve the puzzle using **BFS** (Breadth-First Search) or **DFS** (Depth-First Search) algorithms.
 
- 📸 Screenshot
+---
+
+## 📸 Screenshot
 
 ![Puzzle Game Screenshot](Screenshot.png)
 
+---
 
+## 🛠 How to Run
 
-🚀 How to Run
-Make sure you have Python installed.
+1. **Clone the repository:**
 
-Install the required libraries:
-
-bash
-Copy
-Edit
-pip install pillow
-Run the game:
-
-bash
-Copy
-Edit
-python puzzle_game.py
-🛠️ Requirements
-Python 3.6+
-
-Pillow library
-
-Tkinter (comes pre-installed with Python)
-
-📂 Project Fi
+   ```bash
+   git clone https://github.com/ahmedgomaa2004/PuzzleGame.git
