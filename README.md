@@ -11,6 +11,12 @@ Reset the game.
 
 Auto-solve using BFS or DFS algorithms.
 
+ 📸 Screenshot
+
+![Puzzle Game Screenshot](Screenshot.png)
+
+
+
 🚀 How to Run
 Make sure you have Python installed.
 
